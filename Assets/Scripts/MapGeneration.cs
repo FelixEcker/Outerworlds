@@ -3,6 +3,11 @@
 /* Author: Felix Eckert                */
 /***************************************/
 
+// IN ORDER TO USE THE MAP GENERATION, DISABLE THE
+// SPRITE COMPONENT IN THE BACKGROUND OBJECT
+// AND ACTIVATE THIS SCRIPT IN THE MAPGEN OBJECT
+// IN THE TESTING-SCENE
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
