@@ -1,3 +1,4 @@
-.vscode
-Library
-Logs
+.vscode/
+Library/
+Logs/
+Outerworlds.sln
